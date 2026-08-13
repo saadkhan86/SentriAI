@@ -1,1 +1,3 @@
 before creating a camera verify does the shop have active connecctionn or not ?
+
+#comoleted
